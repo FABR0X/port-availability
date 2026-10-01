@@ -1,0 +1,16 @@
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+
+# Explicitos
+*.tar
+*.tar.gz
